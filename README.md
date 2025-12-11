@@ -1,4 +1,4 @@
 # my-project
 elaborates these project
 <br>
-Author - Aditi Tiwari
+Author - Aditi Tiwari(student)
